@@ -31,4 +31,5 @@ That’s it
 
 ## Thank You
 
-https://github.com/diwamishra21/crazy-pilot-python-pygame/blob/main/gallery/sprites/message.png
+![alt text](https://github.com/diwamishra21/crazy-pilot-python-pygame/blob/main/gallery/sprites/message.png)
+
