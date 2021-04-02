@@ -5,7 +5,7 @@ Its an interesting game of flying copter and saving it from Crash. It gives poin
 * basic python coding
 
 ## Library to install
-* pygame (pip install pygame)
+* pygame (commadn - pip install pygame) or install it using requirements.txt (command- pip insatll -r requirements.txt)
 
 ## Objective-
 * Creating a python game using pygame
