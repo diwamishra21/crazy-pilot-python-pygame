@@ -1,5 +1,5 @@
 # crazy-pilot-python-pygame
-It's an interesting game of flying copter and saving it from Crash. It gives points on saving and crashes if you hit. To play the game run only single python file "main.py". It is based on python's pygame library. after running "main.py" a pygame window will appear. Hit spacebar or up key to play the game.
+It's an interesting game of flying helicopter and saving it from Crash. It gives points on saving and crashes if you hit. To play the game run only single python file "main.py". It is based on python's pygame library. after running "main.py" a pygame window will appear. Hit spacebar or up key to play the game.
 
 ## Welcome Screen
 ![alt text](https://github.com/diwamishra21/crazy-pilot-python-pygame/blob/main/gallery/screenshots/welcome.png)
@@ -13,7 +13,7 @@ It's an interesting game of flying copter and saving it from Crash. It gives poi
 * basic python coding
 
 ## Library to install
-* pygame (commadn - pip install pygame) or install it using requirements.txt (command- pip insatll -r requirements.txt)
+* pygame (command - pip install pygame) or install it using requirements.txt (command- pip insatll -r requirements.txt)
 
 ## Objective-
 * Creating a python game using pygame
@@ -31,7 +31,7 @@ It's an interesting game of flying copter and saving it from Crash. It gives poi
 That’s it
 
 ## What you Got-
-* Suuccessfuly run a python game written in one python file
+* Successfully run a python game written in one python file
 
 ## future scope and updation
 * can store highest score for showing each time
