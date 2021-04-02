@@ -30,3 +30,6 @@ That’s it
 * can increase difficulty leavel of game or velocity after some score* 
 
 ## Thank You
+
+![alt text](https://github.com/diwamishra21/crazy-pilot-python-pygame/blob/main/gallery/sprites/message.png)
+
